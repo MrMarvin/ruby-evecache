@@ -1,6 +1,6 @@
 # evecache
 
-lives at: [https://github.com/MrMarvin/evecache]( https://github.com/MrMarvin/evecache)
+lives at: [https://github.com/MrMarvin/ruby-evecache]( https://github.com/MrMarvin/ruby-evecache)
 
 ## DESCRIPTION
 
