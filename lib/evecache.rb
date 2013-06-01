@@ -1,4 +1,4 @@
-require 'evecache/evecache'
+require 'evecache.bundle'
 
 module Evecache
   VERSION = "0.42.0"

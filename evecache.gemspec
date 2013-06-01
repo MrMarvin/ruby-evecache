@@ -1,10 +1,6 @@
-lib = File.expand_path('../lib/', __FILE__)
-$:.unshift lib unless $:.include?(lib)
-require 'evecache'
-
 Gem::Specification.new do |s|
   s.name        = "evecache"
-  s.version     = Evecache::VERSION
+  s.version     = "0.42.0"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Marvin Frick"]
   s.email       = ["marv@hostin.is"]
